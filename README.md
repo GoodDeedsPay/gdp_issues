@@ -1,1 +1,1 @@
-# gdp_issues - issue tracking only
+gdp_issues - issue tracking only
